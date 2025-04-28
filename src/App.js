@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Login from './Login';
-import Dashboard from './Dashboard';
+import Login from '../tms-frontend/src/Login';
+import Dashboard from '../tms-frontend/src/Dashboard';
 
 function App() {
   return (
